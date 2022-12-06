@@ -21,3 +21,5 @@ var person = {
  console.log (Object.values(person));
  console.log (Object.keys(person));
  console.log (JSON.stringify(person));
+
+ // object is storer of data. Keys and values
