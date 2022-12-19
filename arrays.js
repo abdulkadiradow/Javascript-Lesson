@@ -12,4 +12,3 @@ var names = [
 
 
 console.log (names);
-console.log (names[3])
