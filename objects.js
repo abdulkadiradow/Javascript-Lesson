@@ -23,3 +23,4 @@ var person = {
  console.log (JSON.stringify(person));
 
  // object is storer of data. Keys and values
+ 
