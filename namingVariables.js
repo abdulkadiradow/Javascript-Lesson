@@ -64,3 +64,4 @@ console.log (typeof dob);
 console.log (typeof person);
 console.log (typeof empty);
 
+
